@@ -3,7 +3,7 @@
 I'm a fullstack software engineer, with experience using JavaScript, TypeScript, React, Ruby, PostgreSQL and Python. My passion lies in complex problem solving, learning new software related technologies, and collaborating with others to accomplish a common goal.
 
 ## Tumbleweed CDC 🌵
-I most recently worked on [Tumbleweed](https://tumbleweed-cdc.github.io), an open-source framework that uses CDC and the transactional outbox pattern for consistent, real-time data propagation between microservices. Tumbleweed can be automatically deployed to AWS, or manually deployed via Docker to your local machine, creating a self-hosted, log-based CDC pipleline. It abstracts away the complexities associated with setting up and using CDC tools and stream processing frameworks. Through the user-friendly Tumbleweed UI, data changes in one or many PostgreSQL databases can be synced to consumer microservices.
+I most recently worked on [Tumbleweed](https://tumbleweed-cdc.github.io), an open-source framework that uses CDC and the transactional outbox pattern for consistent, real-time data propagation between microservices. Tumbleweed can be automatically deployed to your AWS services, or manually deployed via Docker to your local machine, creating a self-hosted, log-based CDC pipleline. It abstracts away the complexities associated with setting up and using CDC tools and stream processing frameworks. Through the user-friendly Tumbleweed UI, data changes in one or many PostgreSQL databases can be synced to consumer microservices.
 
 Check out the [Tumbleweed Case Study](https://tumbleweed-cdc.github.io/docs/introduction) for more information!
 

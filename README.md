@@ -19,7 +19,7 @@ Check out the [Tumbleweed Case Study](https://tumbleweed-cdc.github.io/docs/intr
 | Change Data Capture + Stream Processing | ![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat) ![](https://custom-icon-badges.demolab.com/badge/Debezium-94C248?logo=debezium&logoColor=white) ![](https://custom-icon-badges.demolab.com/badge/Tumbleweed-FCE197?logo=tumbleweed-cdc&logoColor=white) ![](https://custom-icon-badges.demolab.com/badge/Kafka_Connect-6AB0DE?logo=kafkaconnect&logoColor=white) ![](https://custom-icon-badges.demolab.com/badge/Apicurio_Schema_Registry-F2836B?logo=apicurio&logoColor=white) |
 | Other | ![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=flat) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat) |
 
-## Fun fact 🤠
+## Fun facts 🤠
 
 In my downtime I enjoy playing Dota 2, and spending time with my wife and our wonderful dog Tommy.
 

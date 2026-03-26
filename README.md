@@ -1,4 +1,4 @@
-## Hello there, my name is Nick! 👋😎
+## Hello there, I'm Nick! 👋😎
 
 I'm a fullstack software engineer, with experience using JavaScript, TypeScript, React, Ruby, PostgreSQL and Python. My passion lies in complex problem solving, learning new software related technologies, and collaborating with others to accomplish a common goal.
 
